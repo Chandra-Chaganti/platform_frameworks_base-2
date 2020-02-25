@@ -140,4 +140,7 @@
     <!-- Whether device supports variable refresh rate -->
     <bool name="config_hasVariableRefreshRate">false</bool>
 
+    <!-- Whether the device has a popup camera -->
+    <bool name="config_hasPopupCamera">false</bool>
+
 </resources>
